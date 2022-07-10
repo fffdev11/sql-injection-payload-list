@@ -50,6 +50,3 @@ Organizations like OWASP say only one of the parameterized approaches is necessa
 ### Actively Manage Patches And Updates
 > Vulnerabilities in applications and databases that are exploitable using SQL injection are regularly discovered and publicly identified. Like so many cybersecurity threats, it’s vital organizations stay in tune with the most recent news and apply patches and updates as soon as practical. For SQLi purposes, this means keeping all web application software components, including database server software, frameworks, libraries, plug-ins, and web server software, up to date. 
 If your organization struggles to consistently patch and update programs, a patch management solution might be worth the investment. 
-
-## License
-[XIXX](https://github.com/xixxdev/)
